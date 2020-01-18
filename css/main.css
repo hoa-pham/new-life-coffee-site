@@ -2283,6 +2283,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
+  padding-top: 10%;  /* slope */
+  margin: auto;
   background: url(../img/bg.jpg) center;
   background-size: cover;
 }
